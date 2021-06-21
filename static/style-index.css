@@ -1,0 +1,84 @@
+header {
+    background-color: black;
+}
+
+
+
+#barra-nav {
+    text-align: center;
+}
+
+.logo {
+    width: 150%;
+    position: relative;
+    top: 2em;
+    right: 1em;
+}
+
+.video {
+    position: relative;
+    left: 14em;
+}
+
+.item-nav {
+    display: inline-block;
+    vertical-align: bottom;
+    width: 12em;
+    font-weight: bold;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color:rgba(139, 136, 136, 0.212);
+    border-radius: 2px;
+    
+}
+
+nav a{
+    font-size: 1.2em;
+    text-decoration: none;
+    color: rgba(255, 2, 2, 0.753);
+}
+
+.cor-fundo-pagina{
+    background-image: linear-gradient(#ffff, rgba(139, 136, 136, 0.473), #ffff);
+}
+
+.corpo-home{
+    padding: 7em 12em 6em 6em;
+    margin-left: %50;
+    text-align: end;
+    /*padding-bottom: 1em;*/
+}
+
+}
+.corpo-home-margem {
+    padding-top: 6em;
+    {/*background-image: linear-gradient(#fe5678 10% , #ffff);*/}
+}
+
+.fotos.rosto{
+    margin: auto;
+}
+
+.foto-rosto {
+    border-radius: 50%;
+}
+
+.proposta {
+    font-size: 3em;
+}
+
+.jogadores{
+    margin: 3em 0;
+}
+
+
+footer{
+    background-image: linear-gradient(#ffff 10%, #7777);
+    padding: 1em 0;
+}
+
+.copyright{
+    font-weight: 200;
+    text-align: end;
+    padding: 0 1.5em;
+}
